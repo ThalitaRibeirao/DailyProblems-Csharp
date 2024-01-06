@@ -1,6 +1,3 @@
-
-# Daily Problems 
-
 ## Overview
 
 <table style="border: none;">
