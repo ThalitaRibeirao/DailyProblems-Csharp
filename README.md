@@ -1,9 +1,9 @@
 ## Overview
 
 <table style="border: none!important;">
-  <tr style="border: none!important;">
-    <td valign="top" style="border: none!important;"><img src="https://media3.giphy.com/media/RGvJD7iJehKK57K2TG/200w.gif?cid=6c09b952er71g908h7im7qyaskpsgvvezxgi45oaoscak9l3&ep=v1_gifs_search&rid=200w.gif&ct=g"/></td>
-    <td valign="top" style="border: none!important;"> Welcome to the "Daily Problems" repository! This space is dedicated to solving programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. Each problem is tackled and solved in the Visual Studio environment.</td>
+  <tr style="border-top: none!important;">
+    <td valign="top"><img src="https://media3.giphy.com/media/RGvJD7iJehKK57K2TG/200w.gif?cid=6c09b952er71g908h7im7qyaskpsgvvezxgi45oaoscak9l3&ep=v1_gifs_search&rid=200w.gif&ct=g"/></td>
+    <td valign="top"> Welcome to the "Daily Problems" repository! This space is dedicated to solving programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. Each problem is tackled and solved in the Visual Studio environment.</td>
   </tr>
 </table>
 
