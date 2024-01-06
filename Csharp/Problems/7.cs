@@ -24,8 +24,8 @@ public class Problem7
             double sqrt = Math.Sqrt(delta);
             double x1 = (-b - sqrt) / (2 * a);
             double x2 = (-b + sqrt) / (2 * a);
-            Console.WriteLine($"R1 = {x1.ToString(CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"R2 = {x2.ToString(CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"R1 = {x1.ToString("F5", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"R2 = {x2.ToString("F5", CultureInfo.InvariantCulture)}");
         }
     }
 }
