@@ -1,8 +1,8 @@
 ## Overview
 
-<div>
-  <img style="display: inline;" src="https://media3.giphy.com/media/RGvJD7iJehKK57K2TG/200w.gif?cid=6c09b952er71g908h7im7qyaskpsgvvezxgi45oaoscak9l3&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
-  <p style="display: inline;"> Welcome to the "Daily Problems" repository! This space is dedicated to solving programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. Each problem is tackled and solved in the Visual Studio environment. </p>
+<div style = "display: flex;">
+  <img style = "width: 40px;" src="https://media3.giphy.com/media/RGvJD7iJehKK57K2TG/200w.gif?cid=6c09b952er71g908h7im7qyaskpsgvvezxgi45oaoscak9l3&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+  <p> Welcome to the "Daily Problems" repository! This space is dedicated to solving programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. Each problem is tackled and solved in the Visual Studio environment. </p>
 </div>
 
 ## Repository Structure
