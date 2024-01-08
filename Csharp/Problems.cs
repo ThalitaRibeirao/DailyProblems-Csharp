@@ -1,4 +1,4 @@
-﻿Problem9 x = new Problem9();
+﻿Problem10 x = new Problem10();
 x.Resolve();
 
 Console.WriteLine("\n\nPress any key to kit");
