@@ -1,12 +1,10 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1037
-using System;
-using System.Globalization;
 public class Problem8
 {
 	public void Resolve()
     {
         double[,] gaps = { { 0, 25 }, { 25, 50 }, { 50, 75 }, {75, 100}};
-        double input = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+        double input = double.Parse(Console.ReadLine()!);
 
         // Get lenght from first dimension
         for (int i = 0; i < gaps.GetLength(0); i++)

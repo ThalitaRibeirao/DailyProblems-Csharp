@@ -1,5 +1,4 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/runs/code/36928149
-using System.Globalization;
 public class Problem1
 {
 	public void Resolve()
@@ -9,6 +8,6 @@ public class Problem1
 
         int dis = vel * tempo;
         double litros = Math.Round(dis / 12.0, 3);
-        Console.WriteLine(litros.ToString("0.000", CultureInfo.InvariantCulture));
+        Console.WriteLine(litros.ToString("0.000"));
     }
 }

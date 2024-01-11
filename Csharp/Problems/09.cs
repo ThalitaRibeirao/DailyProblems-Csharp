@@ -1,6 +1,4 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1038
-using System;
-
 public class Problem9
 {
 	public void Resolve()

@@ -1,6 +1,4 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1036
-using System;
-using System.Globalization;
 public class Problem7
 {
 	public void Resolve()
@@ -9,9 +7,9 @@ public class Problem7
         string input = Console.ReadLine()!;
         string[] itens = input.Split(' ');
 
-        a = double.Parse(itens[0], CultureInfo.InvariantCulture);
-        b = double.Parse(itens[1], CultureInfo.InvariantCulture);
-        c = double.Parse(itens[2], CultureInfo.InvariantCulture);
+        a = double.Parse(itens[0]);
+        b = double.Parse(itens[1]);
+        c = double.Parse(itens[2]);
 
     
         double delta = (b * b) - (4 * a * c);
@@ -24,8 +22,8 @@ public class Problem7
             double sqrt = Math.Sqrt(delta);
             double x1 = (-b - sqrt) / (2 * a);
             double x2 = (-b + sqrt) / (2 * a);
-            Console.WriteLine($"R1 = {x1.ToString("F5", CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"R2 = {x2.ToString("F5", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"R1 = {x1.ToString("F5")}");
+            Console.WriteLine($"R2 = {x2.ToString("F5")}");
         }
     }
 }

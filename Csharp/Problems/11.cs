@@ -1,14 +1,11 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1041
-using System;
-using System.Globalization;
-
 public class Problem11
 {
 	public void Resolve()
 	{
 		string[] input = Console.ReadLine().Split(' ');
-		double x = double.Parse(input[0], CultureInfo.InvariantCulture);
-        double y = double.Parse(input[1], CultureInfo.InvariantCulture);
+		double x = double.Parse(input[0]);
+        double y = double.Parse(input[1]);
 
         if (x == 0 || y == 0)
         {
