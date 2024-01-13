@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/runs/code/36928149
 public class Problem1
 {
-	public void Resolve()
+	public void Solve()
 	{
         int tempo = int.Parse(Console.ReadLine()!);
         int vel = int.Parse(Console.ReadLine()!);

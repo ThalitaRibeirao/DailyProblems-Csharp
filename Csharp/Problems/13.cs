@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1043
 public class Problem13
 {
-    public void Resolve()
+    public void Solve()
     {
         string[] input = Console.ReadLine()!.Split(' ');
         double a = double.Parse(input[0]);

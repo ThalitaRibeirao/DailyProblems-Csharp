@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1040
 public class Problem10
 {
-	public void Resolve()
+	public void Solve()
 	{
 		string[] input = Console.ReadLine().Split(' ');
 		double n1 = double.Parse(input[0]) * 2.0;

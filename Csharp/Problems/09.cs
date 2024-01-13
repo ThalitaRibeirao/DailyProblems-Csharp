@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1038
 public class Problem9
 {
-	public void Resolve()
+	public void Solve()
     {
         Dictionary<int, decimal> prices = new Dictionary<int, decimal>()
         {

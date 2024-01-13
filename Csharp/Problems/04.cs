@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1020
 public class Problem4
 {
-    public void Resolve()
+    public void Solve()
     {
             int idade = int.Parse(Console.ReadLine()!);
             int anos = idade / 360;

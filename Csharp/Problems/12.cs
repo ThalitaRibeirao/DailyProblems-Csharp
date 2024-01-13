@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1042
 public class Problem12
 {
-    public bool isSorted(List<int> vector)
+    public bool IsSorted(List<int> vector)
     {
         for (int i = 0; i < vector.Count - 1; i++)
         {
@@ -12,13 +12,13 @@ public class Problem12
     }
 
 
-    public void sort(int pos, List<int> vector)
+    public void Sort(int pos, List<int> vector)
     {
         // Check if it's in the last position
         if (pos >= vector.Count - 1)
         {
             // If isn't sorted already, try again
-            if (!isSorted(vector)) sort(0, vector);
+            if (!IsSorted(vector)) Sort(0, vector);
             else return;
         }
         else
@@ -31,11 +31,11 @@ public class Problem12
                 vector[pos + 1] = aux;
             }
 
-            sort(pos + 1, vector);
+            Sort(pos + 1, vector);
         }
     }
 
-	public void Resolve()
+	public void Solve()
 	{
 		string[] input = Console.ReadLine().Split(' ');
         List<int> init = new List<int>();
@@ -47,7 +47,7 @@ public class Problem12
 
         // Sorting the list
         List<int> sorted = new List<int>(init);
-        sort(0, sorted);
+        Sort(0, sorted);
 
         // Showing the result
         foreach (int i in sorted)

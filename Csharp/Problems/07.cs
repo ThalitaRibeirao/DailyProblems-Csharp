@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1036
 public class Problem7
 {
-	public void Resolve()
+	public void Solve()
     {
         double a, b, c;
         string input = Console.ReadLine()!;

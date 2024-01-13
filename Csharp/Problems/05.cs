@@ -13,7 +13,7 @@ public class Problem5
         value -= x * y;
         Console.WriteLine($"{x} {typeY} de R$ {y.ToString("0.00")}");
     }
-    public void Resolve()
+    public void Solve()
     {
         Console.WriteLine("NOTAS");
         notes.ForEach(y => Result(y, "nota(s)"));

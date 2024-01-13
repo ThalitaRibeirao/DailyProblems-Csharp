@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1035
 class Problem6()
 {
-    public void Resolve()
+    public void Solve()
     {
             string input = Console.ReadLine()!;
             string[] itens = input.Split(' ');

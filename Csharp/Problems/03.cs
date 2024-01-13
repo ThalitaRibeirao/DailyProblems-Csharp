@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1019
 public class Problem3
 {
-    public void Resolve()
+    public void Solve()
     {
         int tempo = int.Parse(Console.ReadLine()!);
         int horas = tempo / (60 * 60);

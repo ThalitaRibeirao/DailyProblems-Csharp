@@ -1,7 +1,7 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1037
 public class Problem8
 {
-	public void Resolve()
+	public void Solve()
     {
         double[,] gaps = { { 0, 25 }, { 25, 50 }, { 50, 75 }, {75, 100}};
         double input = double.Parse(Console.ReadLine()!);

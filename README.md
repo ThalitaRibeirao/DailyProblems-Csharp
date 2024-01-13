@@ -23,7 +23,7 @@ To run it, follow these steps:
 2. Locate the problem you want to review or solve
 3. Change the problem number in the 'Problems.cs' file.
 
-     Ex.:  *Problem9 x = new Problem9()* => *Problem3 x = new Problem3()* 
+     Ex.:  *new Problem9()* => *new Problem3()* 
 4. Navigate to the "Problems.cs" file and run it.
 
 ## Issues and Questions
