@@ -6,7 +6,7 @@ CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
 CultureInfo.DefaultThreadCurrentUICulture = CultureInfo.InvariantCulture;
 
 // Solve the specified problem
-new Problem16().Solve();
+new Problem17().Solve();
 
 Console.WriteLine("\n\nPress any key to kit");
 Console.ReadKey();
