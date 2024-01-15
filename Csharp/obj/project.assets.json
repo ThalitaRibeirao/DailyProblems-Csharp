@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\Study\\DailyProblems\\Csharp\\Problems.csproj",
+      "projectUniqueName": "C:\\Users\\thaly\\Study\\DailyProblems\\Csharp\\Problems.csproj",
       "projectName": "Problems",
-      "projectPath": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\Study\\DailyProblems\\Csharp\\Problems.csproj",
+      "projectPath": "C:\\Users\\thaly\\Study\\DailyProblems\\Csharp\\Problems.csproj",
       "packagesPath": "C:\\Users\\thaly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\Study\\DailyProblems\\Csharp\\obj\\",
+      "outputPath": "C:\\Users\\thaly\\Study\\DailyProblems\\Csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
