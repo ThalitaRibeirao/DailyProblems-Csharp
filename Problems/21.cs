@@ -9,13 +9,13 @@ public class Problem21
 		string input = Console.ReadLine()!;
 		double wage = double.Parse(input, CultureInfo.InvariantCulture);
         double fee = 0;
-        Dictionary<double[], double> fees = new Dictionary<double[], double>();
-        {
+         Dictionary<double[], double> fees = new Dictionary<double[], double>{
             { [0, 2000], 0 },
             { [2000, 3000], 0.08 },
             { [3000, 4500], 0.18 },
             { [4500, Double.MaxValue], 0.28 }
         };
+
 
         foreach (var f in fees)
         {
