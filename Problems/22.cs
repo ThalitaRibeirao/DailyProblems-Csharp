@@ -1,5 +1,4 @@
 ﻿// https://www.beecrowd.com.br/judge/pt/problems/view/1052
-
 public class Problem22
 {
 	public void Solve()
