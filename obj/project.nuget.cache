@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8d7L/vy0pUwFnGDlElQ7x7tH3eFVjvDDNyofPCPP5RI+bkrhaJQtxxwm3elbGDeg0P1dWjpiFx9LQoTyRjlXiQ==",
+  "dgSpecHash": "JBVYEqw2+yPcmlfW9cU0N5AG1raXqhG1CH4XMMpdKo6hO+5ja+H0TUyUPjvwoe4HwopQdAjBzOoBXrmF2MQn5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thaly\\Study\\DailyProblems\\Csharp\\Problems.csproj",
+  "projectFilePath": "C:\\Users\\thaly\\Study\\csharp\\DailyProblems\\Problems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
