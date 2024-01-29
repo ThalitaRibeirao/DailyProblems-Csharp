@@ -7,4 +7,4 @@ CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
 CultureInfo.DefaultThreadCurrentUICulture = CultureInfo.InvariantCulture;
 
 // Solve the specified problem
-new Problem31().Solve();
+new Problem32().Solve();
