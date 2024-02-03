@@ -1,4 +1,4 @@
-﻿//
+﻿//https://www.beecrowd.com.br/judge/pt/problems/view/1075
 public class Problem35
 {
     public void Solve()
