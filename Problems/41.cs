@@ -7,7 +7,7 @@ public class Problem41
         {
             int mod = i % 3;
             int div = i / 3;
-            Console.Writeline($"I={1 + i*2} J={7 - mod}");
+            Console.WriteLine($"I={1 + i*2} J={7 - mod}");
         }
     }
 }
