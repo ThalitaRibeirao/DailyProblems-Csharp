@@ -87,3 +87,18 @@ C:\Users\thali\Desktop\csharp\DailyProblems\obj\Debug\net8.0\refint\Problems.dll
 C:\Users\thali\Desktop\csharp\DailyProblems\obj\Debug\net8.0\Problems.pdb
 C:\Users\thali\Desktop\csharp\DailyProblems\obj\Debug\net8.0\Problems.genruntimeconfig.cache
 C:\Users\thali\Desktop\csharp\DailyProblems\obj\Debug\net8.0\ref\Problems.dll
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.AssemblyInfoInputs.cache
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.AssemblyInfo.cs
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.csproj.CoreCompileInputs.cache
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.sourcelink.json
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.dll
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\refint\Problems.dll
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.pdb
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\bin\Debug\net8.0\Problems.exe
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\bin\Debug\net8.0\Problems.deps.json
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\bin\Debug\net8.0\Problems.runtimeconfig.json
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\bin\Debug\net8.0\Problems.dll
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\bin\Debug\net8.0\Problems.pdb
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\Problems.genruntimeconfig.cache
+C:\Users\thaly\OneDrive\Área de Trabalho\csharp\DailyProblems-Csharp\obj\Debug\net8.0\ref\Problems.dll

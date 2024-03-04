@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thali\\Desktop\\csharp\\DailyProblems\\Problems.csproj": {}
+    "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thali\\Desktop\\csharp\\DailyProblems\\Problems.csproj": {
+    "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thali\\Desktop\\csharp\\DailyProblems\\Problems.csproj",
+        "projectUniqueName": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj",
         "projectName": "Problems",
-        "projectPath": "C:\\Users\\thali\\Desktop\\csharp\\DailyProblems\\Problems.csproj",
-        "packagesPath": "C:\\Users\\thali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thali\\Desktop\\csharp\\DailyProblems\\obj\\",
+        "projectPath": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj",
+        "packagesPath": "C:\\Users\\thaly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
