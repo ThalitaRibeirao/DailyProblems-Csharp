@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\onedrive\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems\\59.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|solutionrelative:problems\\59.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems\\60.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|solutionrelative:problems\\60.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\onedrive\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|solutionrelative:problems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\onedrive\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems\\57.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|solutionrelative:problems\\57.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Problems.cs",
-              "DocumentMoniker": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.cs",
+              "DocumentMoniker": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.cs",
               "RelativeDocumentMoniker": "Problems.cs",
-              "ToolTip": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.cs",
+              "ToolTip": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.cs",
               "RelativeToolTip": "Problems.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-15T07:03:01.375Z",
               "IsPinned": true,
@@ -41,27 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "59.cs",
-              "DocumentMoniker": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\59.cs",
-              "RelativeDocumentMoniker": "Problems\\59.cs",
-              "ToolTip": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\59.cs",
-              "RelativeToolTip": "Problems\\59.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "60.cs",
+              "DocumentMoniker": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\60.cs",
+              "RelativeDocumentMoniker": "Problems\\60.cs",
+              "ToolTip": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\60.cs",
+              "RelativeToolTip": "Problems\\60.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA/wAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T20:45:44.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "57.cs",
-              "DocumentMoniker": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\57.cs",
-              "RelativeDocumentMoniker": "Problems\\57.cs",
-              "ToolTip": "C:\\Users\\thaly\\OneDrive\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\57.cs",
-              "RelativeToolTip": "Problems\\57.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T18:42:34.237Z",
+              "WhenOpened": "2024-03-05T19:28:48.691Z",
               "EditorCaption": ""
             }
           ]

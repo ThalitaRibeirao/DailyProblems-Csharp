@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj": {}
+    "C:\\Users\\thaly\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj": {
+    "C:\\Users\\thaly\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj",
+        "projectUniqueName": "C:\\Users\\thaly\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj",
         "projectName": "Problems",
-        "projectPath": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj",
+        "projectPath": "C:\\Users\\thaly\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\Problems.csproj",
         "packagesPath": "C:\\Users\\thaly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaly\\OneDrive\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\obj\\",
+        "outputPath": "C:\\Users\\thaly\\Área de Trabalho\\csharp\\DailyProblems-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
