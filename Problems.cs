@@ -7,7 +7,7 @@ CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
 CultureInfo.DefaultThreadCurrentUICulture = CultureInfo.InvariantCulture;
 
 // Solve the specified problem
-new Problem63().Solve();
+new Problem64().Solve();
 
 // Quit
 Console.WriteLine("\nType any key to quit...");
