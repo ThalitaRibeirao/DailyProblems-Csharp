@@ -3,8 +3,8 @@ public class Problem66
 {
     public void Solve()
     {
-        Console.WriteLine("5.19");
-        return;
+        //Console.WriteLine("5.19");
+        //return;
 
         double sum = 0;
         for (int i = 1; i <= 100; i++)
