@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems\\70.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|solutionrelative:problems\\70.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems\\71.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|solutionrelative:problems\\71.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B8D55BF-1060-4334-B55E-F9F3E9A8E065}|Problems.csproj|c:\\users\\thaly\\\u00E1rea de trabalho\\csharp\\dailyproblems-csharp\\problems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,15 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "70.cs",
-              "DocumentMoniker": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\70.cs",
-              "RelativeDocumentMoniker": "Problems\\70.cs",
-              "ToolTip": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\70.cs",
-              "RelativeToolTip": "Problems\\70.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Title": "71.cs",
+              "DocumentMoniker": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\71.cs",
+              "RelativeDocumentMoniker": "Problems\\71.cs",
+              "ToolTip": "C:\\Users\\thaly\\\u00C1rea de Trabalho\\csharp\\DailyProblems-Csharp\\Problems\\71.cs",
+              "RelativeToolTip": "Problems\\71.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T15:29:04.054Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-19T16:06:09.921Z",
               "EditorCaption": ""
             }
           ]
